@@ -12,7 +12,7 @@ Another example
 For a predicate 
 a1c(+Patient,+a1cValue).
 
-We want to discretize the 1rst argument and into 4 bins.
+We want to discretize the 2nd argument and into 4 bins.
 disc: a1c([2],[4]).
 
 Another example is when user doesn't want to specify the number of bins. 
